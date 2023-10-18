@@ -1,0 +1,14 @@
+{
+  "name": "chat-program",
+  "version": "1.0.0",
+  "description": "tcp socket chat application using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erica Payne & Youssef El-zein",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
